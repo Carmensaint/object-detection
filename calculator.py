@@ -1,4 +1,5 @@
 import sys
+import matplotlib
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow, QLabel, QPushButton, QMessageBox, QLineEdit
 from PyQt5.QtGui import QIcon
 
